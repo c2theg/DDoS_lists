@@ -24,3 +24,8 @@ itunes.apple.com
 #---------- Linux ----------
 *ubuntu.com
 *.launchpad.net
+us.archive.ubuntu.com
+security.ubuntu.com
+
+#---------- Others ----------
+download.docker.com
