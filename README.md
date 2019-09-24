@@ -1,7 +1,7 @@
 # DDoS_lists
-lists to help fight ddos
+# lists to help fight ddos
 
-
+# -----  All are UDP based, unless identified with a (T) ----- 
 #+------------------------+--------------------------------+------------------------------+----------+
 #|        Protocol        | Bandwidth Amplification Factor |      Vulnerable Command      |  Port(s) |
 #+------------------------+--------------------------------+------------------------------+----------+
@@ -23,4 +23,6 @@ lists to help fight ddos
 #| CLDAP                  | 56 to 70                       | —                            |   389    |
 #| TFTP                   | 60                             | —                            |   69     |
 #| Memcached              | 10,000 to 51,000               | —                            |  11211   |
+#| WS-Discovery           | 15,000                         | —                            | 139,445  |
+#|                        |                                | —                            |1124, 3704|
 #+------------------------+--------------------------------+------------------------------+----------+
