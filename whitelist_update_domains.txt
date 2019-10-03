@@ -19,6 +19,16 @@ gg*.apple.com
 itunes.apple.com
 *.itunes.apple.com
 
+#----- Google ------
+^\.google\.com
+^\.googlegroups\.com
+ssl\.google-analytics\.com
+s\.ytimg\.com
+^\.googleapis\.com
+^\.googleusercontent\.com
+^\.gstatic\.com
+googledrive\.com
+
 #---------- Linux ----------
 *ubuntu.com
 *.launchpad.net
