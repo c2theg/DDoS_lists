@@ -37,3 +37,6 @@ security.ubuntu.com
 
 #---------- Others ----------
 download.docker.com
+
+#---------- Generic Valid Sites ----------
+smtp.mail.yahoo.com
