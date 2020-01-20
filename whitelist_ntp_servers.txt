@@ -1,4 +1,7 @@
 # Updated: 1/20/2020
+# Sources:
+# https://tf.nist.gov/tf-cgi/servers.cgi
+
 time.windows.com
 time.apple.com
 time.asia.apple.com
