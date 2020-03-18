@@ -1,3 +1,13 @@
 1.1.1.1
 1dot1dot1dot1.cloudflare-dns.com
 example.com
+doh.xfinity.com
+doh.opendns.com
+dns.google
+cloudflare-dns.com
+dns.quad9.net
+dohdot.coxlab.net
+doh.powerdns.org
+dns.containerpi.com
+doh.libredns.gr
+doh.centraleu.pi-dns.com
