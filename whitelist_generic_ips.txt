@@ -11,3 +11,8 @@ doh.powerdns.org
 dns.containerpi.com
 doh.libredns.gr
 doh.centraleu.pi-dns.com
+captive.apple.com
+connectivitycheck.gstatic.com
+detectportal.firefox.com
+nmcheck.gnome.org
+pool.ntp.org
